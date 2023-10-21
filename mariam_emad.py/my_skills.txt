@@ -1,0 +1,1 @@
+Circuit design, PCB layout and Microcontroller programming
