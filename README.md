@@ -16,9 +16,11 @@ https://github.com/mariam2emad/MariamEmad_MindCloud.git
 ```
 # Following me on GitHub
 - you can find my GitHub account
--   [Here](https://github.com/mariam2emad/MariamEmad_MindCloud/tree/main)
+   - [Here](https://github.com/mariam2emad/MariamEmad_MindCloud/tree/main)
 # The required Screenshots 
 ## Commits
 ![Screenshot 2023-10-21 154259](https://github.com/mariam2emad/MariamEmad_MindCloud/assets/147563842/1eff0b83-e229-4682-af6b-23756d9330e4)
+## Pull request
+![Screenshot 2023-10-21 154043](https://github.com/mariam2emad/MariamEmad_MindCloud/assets/147563842/f10631c1-e140-45d6-9c78-d890315d2bb9)
 
 
